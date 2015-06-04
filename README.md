@@ -1,4 +1,15 @@
 # ftc_app
+Team 3491 Android Studio project for a FTC Robot Controller app.
+
+Copied from https://github.com/ftctechnh/ftc_app on June 4 2015.
+
+Modifications so far:
+ - add MyOp for a Hello World telemetry display
+ - remove most other ops as we're just testing on the ZTE phones.
+
+Mike Silversides
+----------------
+
 FTC Android Studio project to create FTC Robot Controller app.
 
 This is the FTC SDK that can be used to create an FTC Robot Controller app, with custom op modes.
